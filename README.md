@@ -1,2 +1,2 @@
 # Real-estate-website
-real estate website using html, css, javascript, php, mysql
+real estate website using html, css,
